@@ -17,3 +17,4 @@ int main() {
     return 0;
 }
 ```
+I'm quite a C++ newbie, any tip is appreciated
