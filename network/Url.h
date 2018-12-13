@@ -37,11 +37,13 @@ public:
 
     Url();
 
-    Url(string rawUrl);
+    Url(string &rawUrl);
 
     Url(char rawUrl[]);
 
-    Url &update(string rawUrl);
+    Url &update(string &rawUrl);
+
+    Url &update(char rawUrl[]);
 };
 
 
