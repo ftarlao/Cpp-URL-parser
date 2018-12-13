@@ -2,8 +2,8 @@
 // Created by Fabiano on 12/10/18.
 //
 
-#ifndef BLOCKSYNC_URL_H
-#define BLOCKSYNC_URL_H
+#ifndef PARSER_URL_H
+#define PARSER_URL_H
 
 #include <string>
 #include <iostream>
@@ -47,4 +47,4 @@ public:
 };
 
 
-#endif //BLOCKSYNC_URL_H
+#endif //PARSER_URL_H
