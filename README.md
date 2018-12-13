@@ -8,6 +8,8 @@ the represented URL later with the ```update(string)``` command.
 
 The main.cpp is a good exmaple:
 ```
+#include <iostream>
+#include "network/Url.h"
 int main() {
     std::cout << "Test Url parse" << std::endl;
     Url url = Url("http://jack@server.com:8080/path/to/resource?a=1#2");
