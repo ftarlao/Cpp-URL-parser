@@ -1,5 +1,6 @@
 //
-// Created by fab on 12/10/18.
+// Created by Fabiano Tarlao on 12/10/18.
+// Released under GPL3 License
 //
 
 #include "Url.h"
