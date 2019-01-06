@@ -1,4 +1,8 @@
-#include <iostream>
+//
+// Created by Fabiano Tarlao on 12/10/18.
+// Released under GPL3 License
+//#include <iostream>
+
 #include "network/Url.h"
 int main() {
     Url url1 = Url();
